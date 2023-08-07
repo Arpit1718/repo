@@ -47,7 +47,7 @@ npx hardhat run --network localhost scripts/deploy.js.
 (6) Now, go back to the first terminal and type:
 ```bash
 npm run dev
-``
+```
 
 (7) Great you are done, now open the url below in your browser and enjoy interacting the program
 
